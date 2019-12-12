@@ -4,11 +4,12 @@ DankMemer is a Python3 Script for downloading memes from the different Reddit su
 
 ## Requirements
 
-The only requirement is **BeautifulSoup**.\
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install it.
+You need to install **BeautifulSoup** and **requests** modules.\
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install them.
 
 ```bash
 pip3 install bs4
+pip3 install requests
 ```
 
 ## Usage
